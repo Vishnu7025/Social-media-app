@@ -7,11 +7,11 @@ I’m a Python developer, curious to learn more about developing systems, loves 
 
 
 	Implemented all the necessary social media functionalities like Login, Logout and Account settings etc. 
-*	Features include: 
-•	Follow and Unfollow user
-•	Post images, post feed, update feed and like post
-•	Download images
-•	User search and suggestion
+	Features include: 
+- 	Follow and Unfollow user
+- 	Post images, post feed, update feed and like post
+- 	Download images
+- 	User search and suggestion
  Technologies used: Python 3, Django, SQlite3, HTML, CSS, JavaScript, Bootstrap5.  
 
 
