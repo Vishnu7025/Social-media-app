@@ -14,5 +14,5 @@ Implemented all the necessary social media functionalities like Login, Logout an
 - 	User search and suggestion
  Technologies used: Python 3, Django, SQlite3, HTML, CSS, JavaScript, Bootstrap5.  
  
- **For any doubts watch this Youtube video:**https://youtu.be/xSUm6iMtREA
+ **For any doubts watch this Youtube video:** https://youtu.be/xSUm6iMtREA
 
